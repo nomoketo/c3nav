@@ -457,7 +457,7 @@
     },
     "digcour": {
         "de": "Digitalcourage",
-        "en": "Digitalcourage"
+        "en": "Digital courage"
     },
     "django": {
         "de": "Django",
@@ -465,7 +465,7 @@
     },
     "dome": {
         "de": "Zwischen0und1",
-        "en": "Zwischen0und1"
+        "en": "Between 0 and 1"
     },
     "e1": {
         "de": "Aufz\u00fcge 1. OG",
@@ -493,51 +493,51 @@
     },
     "f0": {
         "de": "Erdgeschoss Foyer",
-        "en": "Ground Floor Foyer"
+        "en": "Ground Floor Lobby"
     },
     "f1h1": {
         "de": "Saal 1 Garderobenfoyer",
-        "en": "Hall 1 Cloakroom Foyer"
+        "en": "Hall 1 Cloakroom Lobby"
     },
     "f1h2": {
         "de": "Saal 2 Garderobenfoyer",
-        "en": "Hall 2 Cloakroom Foyer"
+        "en": "Hall 2 Cloakroom Lobby"
     },
     "f2h1": {
         "de": "Saal 1 Hauptfoyer",
-        "en": "Hall 1 Main Foyer"
+        "en": "Hall 1 Main Lobby"
     },
     "f2h2": {
         "de": "Saal 2 Hauptfoyer",
-        "en": "Hall 2 Main Foyer"
+        "en": "Hall 2 Main Lobby"
     },
     "f3h1": {
         "de": "Saal 1 Zwischenfoyer",
-        "en": "Hall 1 Intermediate Foyer"
+        "en": "Hall 1 Intermediate Lobby"
     },
     "f3h2": {
         "de": "Saal 2 Zwischenfoyer",
-        "en": "Hall 2 Intermediate Foyer"
+        "en": "Hall 2 Intermediate Lobby"
     },
     "f4h1": {
         "de": "Saal 1 Rangfoyer",
-        "en": "Hall 1 Gallery Foyer"
+        "en": "Hall 1 Gallery Lobby"
     },
     "f4h2": {
         "de": "Saal 2 Rangfoyer",
-        "en": "Hall 2 Gallery Foyer"
+        "en": "Hall 2 Gallery Lobby"
     },
     "fac": {
         "de": "Saal A-C Foyer",
-        "en": "Hall A-C Foyer"
+        "en": "Hall A-C Lobby"
     },
     "failov": {
         "de": "failoverflow",
-        "en": "failoverflow"
+        "en": "fail overflow"
     },
     "fdg": {
         "de": "Saal D-G Foyer",
-        "en": "Hall D-G Foyer"
+        "en": "Hall D-G Lobby"
     },
     "fe": {
         "de": "F+E",
@@ -557,7 +557,7 @@
     },
     "fnoc": {
         "de": "NOC Foyer",
-        "en": "NOC Foyer"
+        "en": "NOC Lobby"
     },
     "food1": {
         "de": "Catering Saal 1",
@@ -581,7 +581,7 @@
     },
     "freifunk": {
         "de": "Freifunk",
-        "en": "Freifunk"
+        "en": "Free signal"
     },
     "fsfe": {
         "de": "FSFE",
@@ -589,11 +589,11 @@
     },
     "fspeak": {
         "de": "Speaker Foyer",
-        "en": "Speaker Foyer"
+        "en": "Speaker Lobby"
     },
     "games": {
         "de": "Spieleberatung",
-        "en": "Game Parlour"
+        "en": "Game dialoge"
     },
     "garage": {
         "de": "zum Parkhaus",
@@ -605,7 +605,7 @@
     },
     "geheim": {
         "de": "Geheimorga",
-        "en": "Geheimorga"
+        "en": "Secret Club"
     },
     "gfac": {
         "de": "Gfac",
@@ -745,7 +745,7 @@
     },
     "helferl": {
         "de": "Helferlein",
-        "en": "Helferlein"
+        "en": "Helper"
     },
     "hf": {
         "de": "Saal F",
@@ -773,7 +773,7 @@
     },
     "htours": {
         "de": "Hackertours",
-        "en": "Hackertours"
+        "en": "Hacker tours"
     },
     "hvc": {
         "de": "Himmel Catering",
@@ -785,7 +785,7 @@
     },
     "hvf": {
         "de": "Himmel Foyer",
-        "en": "Heaven Foyer"
+        "en": "Heaven Lobby"
     },
     "hvh": {
         "de": "Himmel Hackcenter",
@@ -865,7 +865,7 @@
     },
     "madeck": {
         "de": "Maschinendeck",
-        "en": "Maschinendeck"
+        "en": "Maschine Room"
     },
     "mafia": {
         "de": "MafiA",
@@ -929,7 +929,7 @@
     },
     "nets": {
         "de": "Netze",
-        "en": "Nets"
+        "en": "Networks"
     },
     "noc": {
         "de": "Saal 8",
@@ -953,7 +953,7 @@
     },
     "outside": {
         "de": "Vorplatz",
-        "en": "Forecourt"
+        "en": "Courtyard"
     },
     "pasten": {
         "de": "Pasten",
@@ -961,7 +961,7 @@
     },
     "patin": {
         "de": "Chaospatinnen",
-        "en": "Chaospatinnen"
+        "en": "Chaos Grandmoms"
     },
     "pick": {
         "de": "Lockpicking",
@@ -1045,7 +1045,7 @@
     },
     "shack": {
         "de": "shackspace",
-        "en": "shackspace"
+        "en": "shack space"
     },
     "shirts": {
         "de": "Shirt Desk",
@@ -1085,7 +1085,7 @@
     },
     "stud": {
         "de": "Studentennetze",
-        "en": "Jugend hackt"
+        "en": "Youth Hacking"
     },
     "subtitles": {
         "de": "Subtitles",
@@ -1137,27 +1137,27 @@
     },
     "tf0": {
         "de": "Toilette, Erdgeschoss Foyer",
-        "en": "Toilet, Ground Level Foyer"
+        "en": "Toilet, Ground Level Lobby"
     },
     "tf2h2": {
         "de": "Toilette, Saal 2 Foyer Hauptfoyer",
-        "en": "Toilet, Hall 2 Main Foyer"
+        "en": "Toilet, Hall 2 Main Lobby"
     },
     "tf3h1": {
         "de": "Toilette, Saal 1 Foyer Zwischenfoyer",
-        "en": "Toilet, Hall 1 Intermediate Foyer"
+        "en": "Toilet, Hall 1 Intermediate Lobby"
     },
     "tf3h2": {
         "de": "Toilette, Saal 2 Foyer Zwischenfoyer",
-        "en": "Toilet, Hall 2 Intermediate Foyer"
+        "en": "Toilet, Hall 2 Intermediate Lobby"
     },
     "tf4h1": {
         "de": "Toilette, Saal 1 Foyer Rangfoyer",
-        "en": "Toilet, Hall 1 Gallery Foyer"
+        "en": "Toilet, Hall 1 Gallery Lobby"
     },
     "tf4h2": {
         "de": "Toilette, Saal 2 Foyer Rangfoyer",
-        "en": "Toilet, Hall 2 Gallery Foyer"
+        "en": "Toilet, Hall 2 Gallery Lobby"
     },
     "tfac": {
         "de": "Toilette, Foyer A-C",
@@ -1169,7 +1169,7 @@
     },
     "tfh4": {
         "de": "Toiletten, Saal 4 Foyer",
-        "en": "Toilet, Hall 4 Foyer"
+        "en": "Toilet, Hall 4 Lobby"
     },
     "thvc": {
         "de": "Toilette, Himmel Catering",
@@ -1177,7 +1177,7 @@
     },
     "thvf": {
         "de": "Toilette, Himmel Foyer",
-        "en": "Toilet, Heaven Foyer"
+        "en": "Toilet, Heaven Lobby"
     },
     "tlobby": {
         "de": "Toilette, Lobby",
@@ -1197,7 +1197,7 @@
     },
     "unbezahlbar": {
         "de": "Unbezahlbar",
-        "en": "Unbezahlbar"
+        "en": "Cannot be paid"
     },
     "unieind": {
         "de": "Universities Eindhoven",
@@ -1221,7 +1221,7 @@
     },
     "wch": {
         "de": "Barrierefreie Toilette",
-        "en": "Handicapped Toilet"
+        "en": "Accessible Toilet"
     },
     "wcu": {
         "de": "Unisextoilette",
@@ -1229,7 +1229,7 @@
     },
     "words": {
         "de": "Wordlounge",
-        "en": "Wordlounge"
+        "en": "Poetry Lounge"
     },
     "xil": {
         "de": "xil",
